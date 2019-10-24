@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.902
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SwaggerTest", "SwaggerTest\SwaggerTest.csproj", "{BCA3CF83-550A-4C8F-A1DD-B80C0F9FBEEC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BCA3CF83-550A-4C8F-A1DD-B80C0F9FBEEC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BCA3CF83-550A-4C8F-A1DD-B80C0F9FBEEC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BCA3CF83-550A-4C8F-A1DD-B80C0F9FBEEC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BCA3CF83-550A-4C8F-A1DD-B80C0F9FBEEC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {12C2760F-BFA9-494E-9181-35660B301AAC}
+	EndGlobalSection
+EndGlobal
